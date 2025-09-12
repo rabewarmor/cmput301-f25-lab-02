@@ -9,6 +9,11 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+https://www.youtube.com/playlist?list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E
+https://developer.android.com/reference/org/w3c/dom/Document
+
+
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
